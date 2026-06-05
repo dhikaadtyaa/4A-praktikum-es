@@ -19,7 +19,7 @@ void setup() {
   // Samakan dengan baud rate Serial Monitor
   Serial.begin(9600);
 
-  dht.begin();c:\Users\ADVAN\Documents\Arduino\uap_kelompok\uap_kelompok.ino
+  dht.begin();
 
   pinMode(pinKipas, OUTPUT);
   digitalWrite(pinKipas, LOW);
